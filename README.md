@@ -1,12 +1,62 @@
-# React + Vite
+Futuristic Clock Project 🕒
+A modern, animated clock application built with React featuring a sleek glass-morphism design and dynamic visual effects.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+✨ Features
+Real-time clock display
+Glass-morphism UI design
+Animated components with floating effects
+Responsive layout
+Dynamic hover interactions
+Custom gradient backgrounds
+Glowing text effects
+🛠️ Tech Stack
+React
+CSS3 (with modern features)
+Glass-morphism effects
+CSS Custom Properties
+Modern JavaScript
+🚀 Installation
 
-Currently, two official plugins are available:
+# Clone the repository
+git clone https://github.com/yourusername/futuristic-clock.git
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Navigate to project directory
+cd futuristic-clock
 
-## Expanding the ESLint configuration
+# Install dependencies
+npm install
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Start development server
+npm run dev
+
+🎨 Styling Features
+Custom animations:
+Background shift effect
+Floating animation
+Glow pulse effect
+Glass-morphism styling
+Responsive typography using clamp()
+Custom color variables
+Smooth transitions
+💻 Usage
+The clock automatically displays the current time with a modern, futuristic interface. Hover over elements to see interactive animations and effects.
+
+🔧 Customization
+You can modify the theme by adjusting the CSS variables in index.css:
+:root {
+  --glow-color: #00f7ff;
+  --glass-bg: rgba(255, 255, 255, 0.1);
+  --glass-border: rgba(255, 255, 255, 0.2);
+}
+
+📱 Responsive Design
+Fluid typography
+Mobile-friendly layout
+Adaptive container sizing
+Consistent visual effects across devices
+📄 License
+MIT License - feel free to use this project for personal or commercial purposes.
+
+👤 Author
+Your Name :Pranjal Agarwal
+GitHub: @xlordx-bit
